@@ -1,0 +1,217 @@
+body{
+    padding-top: 0px;
+    font-size: 14px;
+    font-family: "Roboto",sans-serif;
+}
+.nav-firstidiv{
+    background-color: #007bff;
+}
+
+.container-fluid{
+    background: linear-gradient(to right, #4dabff , #62ddff );
+    height: 80px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.nav-item a{
+    color: white;
+}
+
+.btn-btn-primary{
+    height: 50px;
+    border: 1px solid;
+    width: 134px;
+    border: 1px solid rgba(255,255,255,.5);
+    background: rgba(255,255,255,.1);
+    border-radius: 5px;
+}
+
+h2{
+    font-size: 36px;
+    line-height: 45px;
+    color: white;
+    margin-bottom: 20px;
+    font-family: "Heebo",sans-serif;
+    font-weight: bold;
+}
+
+p{
+    color: #fff;
+    font-family: "Roboto",sans-serif;
+    margin-bottom: 35px;
+    line-height: 24px;
+    font-size: 14px;
+}
+.first-div{
+    background: linear-gradient(to right, #4dabff , #62ddff );
+    padding-top: 150px;
+    margin-top: -10px;
+    padding-left: 100px;
+    padding-right: 130px;
+    padding-bottom: 150px;
+}
+
+.btn-btn-light{
+    height: 50px;
+    border: 1px solid;
+    width: 134px;
+    background-color: white;
+    color: black;
+    font-weight: bold;
+    border: 0 none;
+    border-radius: 5px;
+}
+
+.card-text{
+    line-height: 24px;
+    font-size: 14px;
+    font-family: "Roboto",sans-serif;
+    font-weight: normal;
+    color: #777;
+}
+
+.card-title{
+    color: #222;
+    font-size: 20px;
+    margin-bottom: 15px;
+    font-family: "Heebo",sans-serif;
+    font-weight: bold;
+}
+
+.second-div h2{
+    color: black;
+    text-align: center;
+}
+
+.second-div p{
+    text-align: center;
+    line-height: 24px;
+    font-size: 14px;
+    font-family: "Roboto",sans-serif;
+    font-weight: normal;
+    color: #777;
+}
+
+.second-div{
+    padding-top: 150px;
+    padding-bottom: 150px;
+    padding-left: 100px;
+    padding-right: 100px;
+}
+
+.card{
+    margin-top: 50px;
+}
+
+.third-div, .fifth-div{
+    background: #edf6ff;
+    padding-top: 150px;
+    padding-bottom: 150px;
+}
+
+.third-div-btn{
+    color: black;
+    background-color: white;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+    font-family: "Roboto",sans-serif;
+    font-weight: bold;
+    width: 250px;
+    height: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+}
+
+.third-div-btn-unique{
+    background: linear-gradient(to right, #4dabff , #62ddff );
+    color: white;
+    width: 250px;
+    height: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+    font-family: "Roboto",sans-serif;
+    font-weight: bold;
+}
+
+.third-row, .fifth-div{
+    padding-left: 80px;
+}
+
+.third-div h3, .fifth-div h3{
+    color: #222;
+    line-height: 45px;
+    font-size: 36px;
+    font-family: "Heebo",sans-serif;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+.third-div h6, .fifth-div h6{
+    color: #222;
+    font-size: 16px;
+    font-weight: 500;
+    font-family: "Roboto",sans-serif
+}
+
+.third-div p, .fifth-div p{
+    color: #777;
+    line-height: 24px;
+    font-size: 14px;
+    font-family: "Roboto",sans-serif;
+    font-weight: normal;
+}
+
+.third-div-second-div-btn{
+    background: linear-gradient(to right, #4dabff , #62ddff );
+    color: white;
+    width: 150px;
+    height: 50px;
+    margin-bottom: 50px;
+    text-align: center;
+    border: none;
+    border-radius: 5px;
+    font-size: 13px;
+    font-family: "Roboto",sans-serif;
+    font-weight: bold;
+}
+
+.fourth-div h2{
+    color: black;
+    font-weight: bold;
+    text-align: center;
+    padding-top: 100px;
+    text-align: center;
+}
+
+.fourth-div p{
+    text-align: center;
+    font-size: 14px;
+    font-family: "Roboto",sans-serif;
+    line-height: 24px;
+    color: #777;
+    margin: auto;
+    margin-bottom: 70px;
+}
+
+.fourth-div img{
+    margin-left: auto;
+    margin: 50px auto;
+    /* width: 80%; */
+}
+/* 
+#fourth-div-img{
+    padding-left: 300px;
+} */
+
+.card img{
+    width: 50%;
+    margin: auto;
+    margin-top: 30px;
+}
